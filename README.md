@@ -18,13 +18,13 @@ Foi um projeto feito para treinar as seguintes habilidades:
 - Bordas e classificação de elementos
 - Posicionamento dos elementos
 
-- ⚡ Link para o site : [Decoration-company-presentation-page](https://rianandrade.github.io/Decoration-company-presentation-page/)
+## Link para o site : [Decoration-company-presentation-page](https://rianandrade.github.io/Decoration-company-presentation-page/)
 
 
 ## Modelo:
 
 <div align="center">
-  <img src="https://github.com/RianAndrade/Pokedex-Com-PokeAPI/blob/main/images/pokedexModelo.png"  width="500"/>
+  <img src="https://github.com/RianAndrade/Decoration-company-presentation-page/blob/main/images/modelo.png"  />
 </div>
 
 
